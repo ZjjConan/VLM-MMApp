@@ -2,7 +2,7 @@
 [Lingxiao Yang](https://zjjconan.github.io/), [Ru-Yuan Zhang](https://ruyuanzhang.github.io/), [Yanchen Wang](https://ppwangyc.github.io/), [Xiaohua Xie](https://cse.sysu.edu.cn/teacher/XieXiaohua)<br>
 Sun Yat-sen University, Peking University, Columbia University<br>
 
-This paper builds upon our CVPR 2024 publication, MMA: Multi-modal Adapter for Vision-Language Models, by providing a new theoretical analysis and proposing a theory-driven adaptation framework.
+**This paper builds upon our CVPR 2024 publication, MMA: Multi-modal Adapter for Vision-Language Models, by providing a new theoretical analysis and proposing a theory-driven adaptation framework.**
 
 
 ## Highlights
