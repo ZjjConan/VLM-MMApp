@@ -63,12 +63,15 @@ bash run_xd.sh 0 1
 If you find our work or this repo helpful for your research, please kindly cite the following papers:
 
 ```bash
-@ARTICLE{YangMMA++_TPAMI2026,
-  author={Yang, Lingxiao and Zhang, Ru-Yuan and Wang, Yanchen and Xie, Xiaohua},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={MMA++: Effective Multi-Modal Adaptation for Vision-Language Models}, 
-  year={2026},
-  doi={10.1109/TPAMI.2026.3691448}
+@ARTICLE{Yang2026MMApp,
+    author={Yang, Lingxiao and Zhang, Ru-Yuan and Wang, Yanchen and Xie, Xiaohua},
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+    title={MMA++: Effective Multi-Modal Adaptation for Vision-Language Models}, 
+    year={2026},
+    volume={48},
+    number={9},
+    pages={10414-10428},
+    doi={10.1109/TPAMI.2026.3691448},
 }
 
 @InProceedings{YangMMA_CVPR2024,
